@@ -1,5 +1,5 @@
 # Docker_Kubernetes
-I write 5 blogs after learning of Docker and Kubernetes.
+I wrote 5 blogs after learning of Docker and Kubernetes.
 
 # Introduction of Docker and Kubernetes
 ```
